@@ -8,8 +8,8 @@
 # アプリケーションのダウンロード
 ## ubuntuソフトウェアセンターからインストール
 
-$ sudo apt update
-$ sudo apt install mikutter gparted vlc vlc-videolan chromium-browser chromium-browser-l10n gimp gimp-ufraw shotwell ubuntu-restricted-extras sylpheed sylph-searcher r-base-core nautilus-dropbox wine asunder easytag geeqie calibre blueman xsane unetbootin pdf-shuffler keepassx handbrake synaptic git
+- $ sudo apt update
+- $ sudo apt install mikutter gparted vlc vlc-videolan chromium-browser chromium-browser-l10n gimp gimp-ufraw shotwell ubuntu-restricted-extras sylpheed sylph-searcher r-base-core nautilus-dropbox wine asunder easytag geeqie calibre blueman xsane unetbootin pdf-shuffler keepassx handbrake synaptic git
 
 ※めんどくさいからコマンド一発で
 
